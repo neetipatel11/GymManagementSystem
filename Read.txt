@@ -1,0 +1,7 @@
+Terminal
+
+	cd gym-app
+	npm start
+
+	cd server
+	npm start
